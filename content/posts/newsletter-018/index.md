@@ -37,27 +37,18 @@ Table of contents:
 - [Popular Workgroup Issues in Github](#popular-workgroup-issues-in-github)
 - [Requests for Contribution](#requests-for-contribution)
 
-<!--
-Ideal section structure is:
+### [`bevy_ldtk`]
 
-```
-### [Title]
+![LDtk Map Running in Bevy](./bevy_ldtk.jpg)
+_( Assets from the **CanariPack 8BIT TopDown** art pack by **Johan Vinet** )_
 
-![image/GIF description](image link)
-_image caption_
+`bevy_ldtk` is a Bevy plugin for loading [LDtk] tilemaps. It features an
+efficient renderer that uses only 4 vertices per map layer and it is heavily
+commented to help guide others who may want to make their own tile map renderers
+for Bevy.
 
-A paragraph or two with a summary and [useful links].
-
-_Discussions:
-[/r/rust](https://reddit.com/r/rust/todo),
-[twitter](https://twitter.com/todo/status/123456)_
-
-[Title]: https://first.link
-[useful links]: https://other.link
-```
-
-If needed, a section can be split into subsections with a "------" delimiter.
--->
+[`bevy_ldtk`]: https://github.com/katharostech/bevy_ldtk
+[Ldtk]: https://ldtk.io
 
 ## [Rust GameDev Podcast][podcast-5]
 
